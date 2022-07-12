@@ -31,10 +31,10 @@ I am currently strengthening my skills in PowerShell scripting.<br>I am infatuat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jutgreen&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
