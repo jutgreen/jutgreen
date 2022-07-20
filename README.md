@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=flat&logo=LibreOffice&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Microsoft OneNote](https://img.shields.io/badge/Microsoft_OneNote-7024a9?style=flat&logo=microsoftonenote&logoColor=white)
-![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-4ca4ed?style=flat&logo=windows&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=flat&logo=Dropbox&logoColor=white)
