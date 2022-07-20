@@ -30,17 +30,27 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jutgreen)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/jutgreen)
 
-### ✏️ Essential Applications:
+### ✏️ Essential Applications/Services:
+[![diagrams.net](https://img.shields.io/badge/diagrams.net-f08705?style=flat&logo=diagramsdotnet&logoColor=white)](https://www.diagrams.net/)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white)](https://microsoft.com/en-us/edge)
+[![Enpass](https://img.shields.io/badge/Enpass-0d449b?style=flat&logo=enpass&logoColor=white)](https://www.enpass.io/)
+[![Feedly](https://img.shields.io/badge/Feedly-2bb24c?style=flat&logo=feedly&logoColor=white)](https://feedly.com/)
+[![Fing](https://img.shields.io/badge/Fing-1a6aff?style=flat&logo=fing&logoColor=white)](https://www.fing.com/)
+[![Firefox](https://img.shields.io/badge/Firefox-6d63eb?style=flat&logo=firefox&logoColor=white)](https://www.mozilla.org/en-US/firefox/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)](https://google.com/chrome/)
+[![IFTTT](https://img.shields.io/badge/IFTTT-222222?style=flat&logo=ifttt&logoColor=white)](https://ifttt.com/)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-4b53bc?style=flat&logo=microsoftteams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://notion.so/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-a9f37e?style=flat&logo=notepadplusplus&logoColor=white)](https://notepad-plus-plus.org/downloads/)
 [![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=flat&logo=plex&logoColor=white)](https://plex.tv/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://postman.com/)
 [![Power Bi](https://img.shields.io/badge/Power_Bi-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/en-us/)
 [![Private Internet Access](https://img.shields.io/badge/Private_Internet_Access-67a94e?style=flat&logo=privateinternetaccess&logoColor=white)](https://privateinternetaccess.com/)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)](https://github.com/microsoft/terminal)
 [![Wireguard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)](https://wireguard.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-061d34?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183861?style=flat&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat&logo=Vivaldi&logoColor=white)](https://vivaldi.com/)
 
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=flat&logo=LibreOffice&logoColor=white)](https://libreoffice.org/)
@@ -123,6 +133,7 @@ Here are some ideas to get you started:
 
 [![Raspberry Pi Projects](https://img.shields.io/badge/-Raspberry_Pi_Projects-C51A4A?style=flat&logo=Raspberry-Pi)](https://www.raspberrypi.org/) &nbsp;
 [![Pi-Hole](https://img.shields.io/badge/Pi--Hole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
+[![RetroArch](https://img.shields.io/badge/RetroArch-000000?style=flat&logo=retroarch)](https://www.retroarch.com/)
 [![RetroPie](https://img.shields.io/badge/RetroPie-bb1708?style=flat&logo=retropie)](https://retropie.org.uk/)
 
 ### 📖 Continued Learning Resources:
