@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ### :bowtie: About Me:
 - 📜 I'm currently strengthening my skills in PowerShell scripting.
-- 🤖 I'm infatuated with automation of repetitive tasks.
+- 🤖 I enjoy scripting logic for automation of repetitive tasks.
 - 🧐 I'm currently learning Python, out of personal interest.
 - 💬 Ask me about retro gaming, mechanical keyboards or Raspberry Pi projects.
 - 🌴 I spend my free time in hammocks.
