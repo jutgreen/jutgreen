@@ -10,9 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-
 ### :bowtie: About Me:
-📜 I'm currently strengthening my skills in PowerShell scripting.<br>🤖 I'm infatuated with automation of repetitive tasks.<br>🧐 I'm currently learning Python, out of personal interest.<br>💬 Ask me about retro gaming, mechanical keyboards or Raspberry Pi projects.<br>🌴 I spend my free time in hammocks.
+- 📜 I'm currently strengthening my skills in PowerShell scripting.
+- 🤖 I'm infatuated with automation of repetitive tasks.
+- 🧐 I'm currently learning Python, out of personal interest.
+- 💬 Ask me about retro gaming, mechanical keyboards or Raspberry Pi projects.
+- 🌴 I spend my free time in hammocks.
 
 ### 🌎 Social Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/EGtf7yzX)
